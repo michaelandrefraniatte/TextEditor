@@ -1,0 +1,94 @@
+Joycon4FH22019 (Joycon4Xbox).txt
+//stick view
+False
+//SL SR View
+True
+//zoning quantity
+130
+//deadzone
+20
+WiiJoy4AW2019 (WiiJoy4Xbox).txt
+//A press I/O
+True
+//A aim plus
+True
+//Home -> - + +
+False
+//aim plus quantity
+30
+//aim plus accuracy multipler of center axis x
+6000
+//aim plus accuracy multipler of center axis y
+8000
+//zoning quantity
+130
+//deadzone
+30
+WiiJoy4Borderlands32019 (WiiJoy4Xbox).txt
+//A press I/O
+False
+//A aim plus
+False
+//Home -> - + +
+False
+//aim plus quantity
+30
+//aim plus accuracy multipler of center axis x
+6000
+//aim plus accuracy multipler of center axis y
+8000
+//zoning quantity
+130
+//deadzone
+18
+WiiJoy4Fortnite2019 (WiiJoy4Xbox).txt
+//A press I/O
+False
+//A aim plus
+False
+//Home -> - + +
+False
+//aim plus quantity
+30
+//aim plus accuracy multipler of center axis x
+6000
+//aim plus accuracy multipler of center axis y
+8000
+//zoning quantity
+130
+//deadzone
+22
+WiiJoy4MW2019 (WiiJoy4Xbox).txt
+//A press I/O
+False
+//A aim plus
+False
+//Home -> - + +
+True
+//aim plus quantity
+30
+//aim plus accuracy multipler of center axis x
+6000
+//aim plus accuracy multipler of center axis y
+8000
+//zoning quantity
+130
+//deadzone
+22
+WiiJoy4MW2019 (WiiJoy4Xbox).txt
+//A press I/O
+True
+//A aim plus
+False
+//Home -> - + +
+False
+//aim plus quantity
+30
+//aim plus accuracy multipler of center axis x
+6000
+//aim plus accuracy multipler of center axis y
+8000
+//zoning quantity
+130
+//deadzone
+29

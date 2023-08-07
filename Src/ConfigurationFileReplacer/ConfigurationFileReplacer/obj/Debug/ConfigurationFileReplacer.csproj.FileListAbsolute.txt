@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\FilesWriter-FilesRewriter\ConfigurationFileReplacer\ConfigurationFileReplacer\bin\Debug\ConfigurationFileReplacer.exe.config
+C:\Users\mic\Documents\GitHub\FilesWriter-FilesRewriter\ConfigurationFileReplacer\ConfigurationFileReplacer\bin\Debug\ConfigurationFileReplacer.exe
+C:\Users\mic\Documents\GitHub\FilesWriter-FilesRewriter\ConfigurationFileReplacer\ConfigurationFileReplacer\bin\Debug\ConfigurationFileReplacer.pdb
+C:\Users\mic\Documents\GitHub\FilesWriter-FilesRewriter\ConfigurationFileReplacer\ConfigurationFileReplacer\obj\Debug\ConfigurationFileReplacer.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\FilesWriter-FilesRewriter\ConfigurationFileReplacer\ConfigurationFileReplacer\obj\Debug\ConfigurationFileReplacer.Form1.resources
+C:\Users\mic\Documents\GitHub\FilesWriter-FilesRewriter\ConfigurationFileReplacer\ConfigurationFileReplacer\obj\Debug\ConfigurationFileReplacer.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\FilesWriter-FilesRewriter\ConfigurationFileReplacer\ConfigurationFileReplacer\obj\Debug\ConfigurationFileReplacer.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\FilesWriter-FilesRewriter\ConfigurationFileReplacer\ConfigurationFileReplacer\obj\Debug\ConfigurationFileReplacer.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\FilesWriter-FilesRewriter\ConfigurationFileReplacer\ConfigurationFileReplacer\obj\Debug\ConfigurationFileReplacer.exe
+C:\Users\mic\Documents\GitHub\FilesWriter-FilesRewriter\ConfigurationFileReplacer\ConfigurationFileReplacer\obj\Debug\ConfigurationFileReplacer.pdb
