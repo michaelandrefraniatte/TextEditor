@@ -75,3 +75,16 @@ C:\Users\micha\Documents\tool\TextEditor\TextEditor\obj\Release\TextEditor.cspro
 C:\Users\micha\Documents\tool\TextEditor\TextEditor\obj\Release\TextEditor.csproj.CoreCompileInputs.cache
 C:\Users\micha\Documents\tool\TextEditor\TextEditor\obj\Release\TextEditor.exe
 C:\Users\micha\Documents\tool\TextEditor\TextEditor\obj\Release\TextEditor.pdb
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\bin\Release\TextEditor.exe.config
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\bin\Release\TextEditor.exe
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\bin\Release\TextEditor.pdb
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\obj\Release\TextEditor.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\obj\Release\TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\obj\Release\TextEditor.Form1.resources
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\obj\Release\TextEditor.Form2.resources
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\obj\Release\TextEditor.Form3.resources
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\obj\Release\TextEditor.Properties.Resources.resources
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\obj\Release\TextEditor.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\obj\Release\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\obj\Release\TextEditor.exe
+C:\Users\micha\Documents\github\TextEditor\Src\TextEditor\TextEditor\obj\Release\TextEditor.pdb

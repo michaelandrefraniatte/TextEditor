@@ -136,7 +136,7 @@ namespace TextEditor
         }
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (openFilePath == null)
+            if (openFilePath == null | openFilePath == "")
             {
                 saveAsToolStripMenuItem_Click(sender, e);
             }
