@@ -1,15 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using System.Drawing.Printing;
 using System.Windows.Forms;
 using System.IO;
-using System.Text.RegularExpressions;
 using OpenWithSingleInstance;
 using System.Runtime.InteropServices;
 
@@ -54,6 +47,7 @@ namespace TextEditor
                 result = MessageBox.Show("Content will be lost! Are you sure?", "Open", MessageBoxButtons.OKCancel);
                 if (result == DialogResult.OK)
                 {
+                    fileText.Clear();
                     string txt = File.ReadAllText(filePath, Encoding.UTF8);
                     fileText.Text = txt;
                     filename = filePath;
@@ -65,6 +59,7 @@ namespace TextEditor
             }
             else
             {
+                fileText.Clear();
                 string txt = File.ReadAllText(filePath, Encoding.UTF8);
                 fileText.Text = txt;
                 filename = filePath;
@@ -108,6 +103,7 @@ namespace TextEditor
                     op.Filter = "All Files(*.*)|*.*";
                     if (op.ShowDialog() == DialogResult.OK)
                     {
+                        fileText.Clear();
                         string txt = File.ReadAllText(op.FileName, Encoding.UTF8);
                         fileText.Text = txt;
                         filename = op.FileName;
@@ -124,6 +120,7 @@ namespace TextEditor
                 op.Filter = "All Files(*.*)|*.*";
                 if (op.ShowDialog() == DialogResult.OK)
                 {
+                    fileText.Clear();
                     string txt = File.ReadAllText(op.FileName, Encoding.UTF8);
                     fileText.Text = txt;
                     filename = op.FileName;

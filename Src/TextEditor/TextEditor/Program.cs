@@ -55,7 +55,7 @@ namespace TextEditor
             {
                 Process _otherInstance = SingleInstanceHelper.GetAlreadyRunningInstance();
                 MessageHelper.SendDataMessage(_otherInstance, args[0]);
-                return;//Exit this instance and let the existing one open the file
+                return;
             }
             Application.Run(new Form1(args.Length > 0 ? args[0] : null));
         }
