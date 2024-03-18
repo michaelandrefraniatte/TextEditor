@@ -153,7 +153,7 @@ namespace TextEditor
         private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog sf = new SaveFileDialog();
-            sf.Filter = "All Files(*.*)|*.*";
+            sf.Filter = "All Files(*.txt)|*.txt";
             if (sf.ShowDialog() == DialogResult.OK)
             {
                 File.WriteAllText(sf.FileName, fileText.Text, Encoding.UTF8);
